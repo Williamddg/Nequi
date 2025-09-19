@@ -12,6 +12,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Nequi">
         <activity
+            android:name="Servicios.Evaluar"
+            android:exported="false" />
+        <activity
+            android:name="Servicios.Ayuda"
+            android:exported="false" />
+        <activity
+            android:name="Principal.Principal"
+            android:exported="false" />
+        <activity
+            android:name="Principal.Contrasena"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

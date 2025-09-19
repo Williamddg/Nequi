@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Nequi</string>
+    <string name="olvido_subrayado"><u>¿Se te olvido?</u></string>
 </resources>
