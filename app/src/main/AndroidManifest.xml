@@ -12,6 +12,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Nequi">
         <activity
+            android:name="Principal.Favoritos"
+            android:exported="false" />
+        <activity
+            android:name="Principal.Tu_plata"
+            android:exported="false" />
+        <activity
+            android:name="Principal.Notificaciones"
+            android:exported="false" />
+        <activity
+            android:name="Principal.Tu_perfil"
+            android:exported="false" />
+        <activity
             android:name="Servicios.Evaluar"
             android:exported="false" />
         <activity
